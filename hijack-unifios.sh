@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # --- DEFAULT CONFIGURATION ---
-DEFAULT_DOMAIN="uos3.100pctwifi.nl"
-DEFAULT_EMAIL="martijn.jongen@gmail.com"
+DEFAULT_DOMAIN="yourserver.nl"
+DEFAULT_EMAIL="youremail@gmail.com"
 
 # --- PROMPT USER (WITH DEFAULTS) ---
 read -p "Enter domain name [$DEFAULT_DOMAIN]: " DOMAIN
